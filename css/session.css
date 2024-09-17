@@ -1,0 +1,31 @@
+:root{
+    --fuentePrincipal : "Rubik", sans-serif;
+}
+
+.session__container{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    align-items: center;
+}
+
+.session__img{
+    margin-top: 14.3rem;
+    width: 40rem;
+
+}
+
+.session__img img{
+    border-radius: 1.5rem;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    gap: .5rem;
+}
+
+.title{
+    text-align: center;
+}
